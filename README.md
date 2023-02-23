@@ -1,2 +1,2 @@
-# Crit-rios-de-aceita-o-em-Gherkin
+# Criterios-de-aceitacao-em-Gherkin
 Exercícios módulo 8 EBAC
